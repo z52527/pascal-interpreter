@@ -1,4 +1,4 @@
-INTEGER, PLUS, EOF, MINUS = 'INTEGER', 'PLUS', 'EOF', '-'
+INTEGER, PLUS, EOF, MINUS = 'INTEGER', 'PLUS', 'EOF', 'MINUS'
 
 
 class Token(object):
