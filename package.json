@@ -1,0 +1,27 @@
+{
+  "name": "pascal-interpreter",
+  "version": "1.0.0",
+  "description": "practice python",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z52527/pascal-interpreter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z52527/pascal-interpreter/issues"
+  },
+  "homepage": "https://github.com/z52527/pascal-interpreter#readme"
+}
